@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e02f73a.css",
+    "main.js": "/static/js/main.761462f4.js",
+    "static/media/purple_onion.png": "/static/media/purple_onion.fee2f5527aeb812abce2.png",
+    "static/media/kiwi.png": "/static/media/kiwi.b585caa3067a100d01df.png",
+    "static/media/eggplant.png": "/static/media/eggplant.291743b326e7ec479489.png",
+    "static/media/purple_grape.png": "/static/media/purple_grape.f4247dcef697461b91b8.png",
+    "static/media/broccoli.png": "/static/media/broccoli.93558cce12800df3cc13.png",
+    "static/media/purple_grape2.png": "/static/media/purple_grape2.2c5902dba7e1693bda2e.png",
+    "static/media/lettuce.png": "/static/media/lettuce.08c1986bc4e912a124a9.png",
+    "static/media/apple.png": "/static/media/apple.f4d9f3d6f7753276d15c.png",
+    "static/media/red_tomato.png": "/static/media/red_tomato.433bf8819053f028806f.png",
+    "static/media/orange.png": "/static/media/orange.26ce764670245540bdb3.png",
+    "static/media/carrot.png": "/static/media/carrot.cde599a1902a4241fa5d.png",
+    "static/media/grape.png": "/static/media/grape.9da60ad48ed83818b77f.png",
+    "static/media/red_chili.png": "/static/media/red_chili.ad181905d3712d864d32.png",
+    "static/media/bell_pepper.png": "/static/media/bell_pepper.e29aff13b36d8f306502.png",
+    "static/media/icon1.png": "/static/media/icon1.0220c81350c24d2c3b57.png",
+    "static/media/flower.png": "/static/media/flower.d3d0b31c17fee109c18d.png",
+    "static/media/schedule.png": "/static/media/schedule.321ff3a6c04e764b1222.png",
+    "index.html": "/index.html",
+    "main.4e02f73a.css.map": "/static/css/main.4e02f73a.css.map",
+    "main.761462f4.js.map": "/static/js/main.761462f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e02f73a.css",
+    "static/js/main.761462f4.js"
+  ]
+}
